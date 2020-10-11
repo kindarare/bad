@@ -1,2 +1,2 @@
-# bad
-some bullshit i've been working on
+# bad 
+just doing this for a project
